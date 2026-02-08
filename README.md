@@ -36,6 +36,13 @@
         </table>
     </section>
 
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>Coming Soon: New projects and professional developments will be updated here.</li>
+        </ul>
+    </section>
+
     <hr>
 
     <section>
