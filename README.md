@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My E-Portfolio</title>
+  <title> My E-Portfolio </title>
 </head>
 <body>
   <h1>Hello, I’m Philip!</h1>
