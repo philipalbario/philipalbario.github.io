@@ -10,8 +10,8 @@
 
   <h2>Projects</h2>
   <ul>
-    <li>ESP32 Camera Project</li>
-    <li>Image Processing for Chili Ripeness</li>
+    <li></li>
+    <li></li>
   </ul>
 
   <h2>Contact</h2>
