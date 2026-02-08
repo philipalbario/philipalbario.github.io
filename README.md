@@ -15,6 +15,7 @@
   </ul>
 
   <h2>Contact</h2>
-  <p>Email: your@email.com</p>
+  <p>Email: albariophiliplorence@gmail.com</p>
+   <p>Contact number: 09260131440 </p>
 </body>
 </html>
