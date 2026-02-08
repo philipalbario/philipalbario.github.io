@@ -7,24 +7,33 @@
 <body>
     <header>
         <h1>Philip Lorence Albario</h1>
-        <p>Welcome to my professional e-portfolio.</p>
+        <p>Professional E-Portfolio</p>
     </header>
 
     <hr>
 
     <section>
         <h2>About Me</h2>
-        <p>I am a driven individual focused on [Your Field/Interest, e.g., Technology or Engineering]. 
-        This portfolio showcases my professional journey and capabilities.</p>
+        <p>I am a dedicated professional committed to continuous learning and technical excellence. 
+        I specialize in bridging the gap between complex problems and effective solutions.</p>
     </section>
 
     <section>
-        <h2>Skills</h2>
-        <ul>
-            <li>Problem Solving</li>
-            <li>Technical Communication</li>
-            <li>[Add a specific skill here]</li>
-        </ul>
+        <h2>Specific Skills</h2>
+        <table border="0">
+            <tr>
+                <td><strong>Technical:</strong></td>
+                <td>Data Analysis, Basic Programming, & Technical Documentation</td>
+            </tr>
+            <tr>
+                <td><strong>Management:</strong></td>
+                <td>Project Planning, Time Management, & Resource Allocation</td>
+            </tr>
+            <tr>
+                <td><strong>Interpersonal:</strong></td>
+                <td>Collaborative Teamwork, Adaptability, & Effective Communication</td>
+            </tr>
+        </table>
     </section>
 
     <hr>
